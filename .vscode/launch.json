@@ -1,0 +1,197 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "IndexOf1stOccur",
+            "request": "launch",
+            "mainClass": "BinarySearch.IndexOf1stOccur",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "Test",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Activity_Selection",
+            "request": "launch",
+            "mainClass": "Activity_Selection",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Coins",
+            "request": "launch",
+            "mainClass": "Coins",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Divisor",
+            "request": "launch",
+            "mainClass": "Divisor",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Fibo",
+            "request": "launch",
+            "mainClass": "Fibo",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Fibonaci",
+            "request": "launch",
+            "mainClass": "Fibonaci",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "LCM",
+            "request": "launch",
+            "mainClass": "LCM",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "MyFact",
+            "request": "launch",
+            "mainClass": "MyFact",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "PalindString",
+            "request": "launch",
+            "mainClass": "PalindString",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "PrimeFactor",
+            "request": "launch",
+            "mainClass": "PrimeFactor",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "R1",
+            "request": "launch",
+            "mainClass": "R1",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "ReverserNum",
+            "request": "launch",
+            "mainClass": "ReverserNum",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Rope_Cut",
+            "request": "launch",
+            "mainClass": "Rope_Cut",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Sample",
+            "request": "launch",
+            "mainClass": "Sample",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Subset",
+            "request": "launch",
+            "mainClass": "Subset",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "SumN",
+            "request": "launch",
+            "mainClass": "SumN",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "SumofDigits",
+            "request": "launch",
+            "mainClass": "SumofDigits",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "TOH",
+            "request": "launch",
+            "mainClass": "TOH",
+            "projectName": "DSA_92eea7f0"
+        },
+        {
+            "type": "java",
+            "name": "TrailingZero",
+            "request": "launch",
+            "mainClass": "TrailingZero",
+            "projectName": "DSA_92eea7f0"
+        }
+    ]
+}
