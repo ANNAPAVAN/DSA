@@ -1,34 +1,29 @@
 import java.util.*;
 class Test 
 {
+    public static void addEdge(List<List<Integer>> adj,int u,int v)
+    {
+        adj.get(u).add(v);
+        adj.get(v).add(u);
+    }
     public static void main(String[] args)
     {
-        TreeMap<String,Integer> m = new TreeMap<>(new Comp());
-        
-        m.put("pavan",110);
-        m.put("anna",102);
-        m.put("op",113);
-
-        
-        // System.out.println(m);
-        for(Map.Entry<String,Integer> i:m.entrySet())
+        int v=4;
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i=0;i<v;i++)
         {
-            if(i.getKey().equals("pavan"))
-            {
-                m.put(i.getKey(),i.getValue()+1000);   
-            }
+            adj.add(new ArrayList<Integer>());
         }
-        System.out.println(m);
+        addEdge(adj,0,1);
+        addEdge(adj,0,2);
+        addEdge(adj,1,2);
+        addEdge(adj,1,3);
+        for(int i=0;i<v;i++)
+        {
+            System.out.println(adj.get(i));
+        }
+        boolean visited[] = new boolean[v];
+        Queue<List<Integer>> q = new LinkedList<>();
+        
     }
 }
-class Comp implements Comparator<Object>
-{
-    public int compare(Object o1,Object o2)
-    {
-        String s1 = (String)o1;
-        String  s2 = (String)o2;
-        return s2.compareTo(s1);
-    }
-}
-
-
